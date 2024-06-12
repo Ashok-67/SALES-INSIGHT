@@ -18,3 +18,9 @@ AZURE AI PROVIDE VARIOUS SERVICES FOR SPEECH SERVICES.IN OUR PROJECT WE USED TEX
 **Monthly Trends:** Sales and Profit
 **Category-wise Analysis:** Profits, Sales, and Sales%
 **Sales by Geography:** States and Regions
+
+## Business Performance Analysis
+The project aims to highlight crucial business metrics and trends via a Power BI dashboard, identifying areas for optimization and informed decision-making.
+
+## Conclusion
+This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
