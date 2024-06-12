@@ -15,6 +15,9 @@ This project offers an in-depth analysis of an e-commerce enterprise leveraging 
 ![Screenshot 2024-06-12 212636](https://github.com/Ashok-67/SALES-INSIGHT/assets/110360080/9f0e6ba0-31cf-4c13-bf2c-6bfcd1c49a4d)
 AZURE AI PROVIDE VARIOUS SERVICES FOR SPEECH SERVICES.IN OUR PROJECT WE USED TEXT TO SPEECH RECOGNIZATION.
 
+![Screenshot 2024-06-12 222203](https://github.com/Ashok-67/SALES-INSIGHT/assets/110360080/93adf368-633c-492e-b291-83151a7c4407)
+USED AZURE DEVOPS TO DEVELOP THE PROJECT THAT HELPS ME TO KNOW THE FLOW AND TRENDS OF THE PROJECT.
+
 ## Dashboard Insights
 **Key Performance Indicators (KPIs):** Total Profit, Total Sales, Total Quantity, Sales Margin%
 **Monthly Trends:** Sales and Profit
