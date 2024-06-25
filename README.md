@@ -32,3 +32,5 @@ The project aims to highlight crucial business metrics and trends via a Power BI
 
 ## Conclusion
 This project harnesses Power BI's capabilities to empower stakeholders with a dynamic platform for sales data analysis. The derived insights lead to informed decisions and refined sales strategies.
+## PROJECT LINK
+https://github.com/Ashok-67/SALES-INSIGHT
